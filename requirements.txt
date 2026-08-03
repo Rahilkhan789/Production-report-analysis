@@ -1,5 +1,5 @@
-openpyxl
-pymongo
+fastmcp
 flask
 gunicorn
-mcp[cli]
+openpyxl
+pymongo
