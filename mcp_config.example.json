@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "production-report": {
+      "command": "python",
+      "args": ["/absolute/path/to/production_report_package/server.py"],
+      "env": {
+        "MONGO_URI": "mongodb://localhost:27017/",
+        "MONGO_DB": "production_db",
+        "MONGO_COLLECTION": "production_records",
+        "SENDER_EMAIL": "your-email@gmail.com",
+        "SENDER_PASSWORD": "your-gmail-app-password",
+        "RECIPIENT_EMAIL": "recipient@example.com",
+        "MANIFEST_URL": "https://your-app.onrender.com"
+      }
+    }
+  }
+}

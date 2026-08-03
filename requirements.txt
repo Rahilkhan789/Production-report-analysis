@@ -1,0 +1,5 @@
+openpyxl
+pymongo
+flask
+gunicorn
+mcp[cli]
