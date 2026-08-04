@@ -6,6 +6,8 @@ production_analysis_mongodb.py - nothing is re-implemented here.
 """
 
 import os
+import requests
+import tempfile
 import logging
 from typing import Dict
 
@@ -36,8 +38,31 @@ def register(mcp):
             total_records, total_quantity, total_clients, worksheet_name -
             or an "error" key if processing failed.
         """
-        if not os.path.exists(file_path):
-            return {"error": f"File not found: {file_path}"}
+            # Support HTTP/HTTPS URLs
+    if file_path.startswith("http://") or file_path.startswith("https://"):
+
+        response = requests.get(file_path)
+
+        if response.status_code != 200:
+            return {
+                "error": f"Unable to download file ({response.status_code})"
+            }
+
+        temp = tempfile.NamedTemporaryFile(
+            delete=False,
+            suffix=".xlsx"
+        )
+
+        temp.write(response.content)
+        temp.close()
+
+        file_path = temp.name
+
+    elif not os.path.exists(file_path):
+
+        return {
+            "error": f"File not found: {file_path}"
+        }
 
         processor = ExcelProcessor(file_path=file_path, worksheet_name=worksheet_name)
 
