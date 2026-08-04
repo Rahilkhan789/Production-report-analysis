@@ -2,11 +2,13 @@ import os
 import json
 from datetime import datetime
 
-from flask import Flask, Response
+from flask import Flask, Response, request, jsonify
 from pymongo import MongoClient, DESCENDING
 from pymongo.errors import PyMongoError, ServerSelectionTimeoutError
 
 app = Flask(__name__)
+UPLOAD_FOLDER = "/tmp/uploads"
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 MONGO_URI = os.environ.get("MONGO_URI", "mongodb://localhost:27017/")
 MONGO_DB = os.environ.get("MONGO_DB", "production_db")
@@ -58,7 +60,31 @@ def manifest():
     html, status = render_manifest(doc)
     return Response(html, status=status, mimetype="text/html")
 
+@app.route("/upload", methods=["POST"])
+def upload():
 
+    if "file" not in request.files:
+        return jsonify({"error": "No file uploaded"}), 400
+
+    file = request.files["file"]
+
+    if file.filename == "":
+        return jsonify({"error": "No filename"}), 400
+
+    if not file.filename.lower().endswith(".xlsx"):
+        return jsonify({"error": "Only .xlsx files are allowed"}), 400
+
+    save_path = os.path.join(
+        UPLOAD_FOLDER,
+        file.filename
+    )
+
+    file.save(save_path)
+
+    return jsonify({
+        "status": "success",
+        "path": save_path
+    })
 @app.route("/health")
 def health():
     return {"status": "ok"}, 200

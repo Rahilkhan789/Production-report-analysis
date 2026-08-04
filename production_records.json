@@ -1,0 +1,1809 @@
+{
+  "file_path": "C:\\Users\\Rahil khan\\Downloads\\monthly report.py\\monthly production-analysis.xlsx",
+  "worksheet_name": "Monthly Production Detail",
+  "generated_at": "2026-08-03T23:28:08.169657+00:00",
+  "total_records": 300,
+  "total_quantity": 80677.0,
+  "records": [
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "Smoke Detector w/o Base Addressable",
+      "quantity": 1327.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "Smoke Detector w/o Base Addressable",
+      "quantity": 100.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Smoke Detector w/o Base Addressable",
+      "quantity": 200.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Agrahari Communication",
+      "item_description": "Smoke Detector w/o Base Addressable",
+      "quantity": 235.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Supertech (Dehradoon)",
+      "item_description": "Smoke Detector w/o Base Addressable",
+      "quantity": 120.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Smoke Detector w/o Base Addressable",
+      "quantity": 1154.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Heat Detector w/o Base Addressable",
+      "quantity": 5.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Supertech (Dehradoon)",
+      "item_description": "Heat Detector w/o Base Addressable",
+      "quantity": 10.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Heat Detector w/o Base Addressable",
+      "quantity": 47.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Heat Detector w/o Base Addressable",
+      "quantity": 6.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 105.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 100.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 60.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 30.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 108.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 2861.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 5.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Neil J Control (Braodway )",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 90.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Multi Detector w/o Base Addressable",
+      "quantity": 125.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "Manual Call Point Addressable",
+      "quantity": 6.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Manual Call Point Addressable",
+      "quantity": 40.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Manual Call Point Addressable",
+      "quantity": 16.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Manual Call Point Addressable",
+      "quantity": 10.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Manual Call Point Addressable",
+      "quantity": 6.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Manual Call Point Addressable",
+      "quantity": 269.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Manual Call Point Addressable (New)",
+      "quantity": 224.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Manual Call Point Addressable (New)",
+      "quantity": 71.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "Input Module Addressable 1 Zone",
+      "quantity": 44.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Input Module Addressable 1 Zone",
+      "quantity": 40.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "PNSC (Sec-71, GGN)",
+      "item_description": "Input Module Addressable 1 Zone",
+      "quantity": 126.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Input Module Addressable 1 Zone",
+      "quantity": 22.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Input Module Addressable 1 Zone",
+      "quantity": 127.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Iris Global (m3m 65th)",
+      "item_description": "Input Module Addressable 1 Zone",
+      "quantity": 10.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Input Module Addressable 1 Zone ABS",
+      "quantity": 66.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Input Module Addressable 1 Zone ABS",
+      "quantity": 82.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Input Module Addressable 1 Zone ABS",
+      "quantity": 73.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Input Module Addressable 1 Zone ABS",
+      "quantity": 108.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Input Module Addressable 1 Zone ABS",
+      "quantity": 84.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Input Module Addressable 1 Zone ABS",
+      "quantity": 3.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Add Monitor Module 2 Zone",
+      "quantity": 1.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "Add Monitor Module 2 Zone",
+      "quantity": 6.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Add Monitor Module 2 Zone",
+      "quantity": 6.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Add Monitor Module 2 Zone",
+      "quantity": 7.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Add Monitor Module 2 Zone",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Add Monitor Module 4 Zone",
+      "quantity": 115.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Add Monitor Module 6 Zone",
+      "quantity": 68.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Add Monitor Module 6 Zone",
+      "quantity": 11.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Add Monitor Module 6 Zone",
+      "quantity": 76.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Add Monitor Module 6 Zone",
+      "quantity": 89.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Add Monitor Module 8 Zone",
+      "quantity": 62.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Add Monitor Module 8 Zone",
+      "quantity": 108.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG (ATS DESTINIRE)",
+      "item_description": "Short Circuit Isolator + Box",
+      "quantity": 102.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (ATS Rhapsody)",
+      "item_description": "Short Circuit Isolator + Box",
+      "quantity": 60.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Short Circuit Isolator + Box",
+      "quantity": 84.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Short Circuit Isolator + Box",
+      "quantity": 20.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (ATS Rhapsody)",
+      "item_description": "Relay Control Module Addressable",
+      "quantity": 38.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Relay Control Module Addressable",
+      "quantity": 65.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Relay Control Module Addressable",
+      "quantity": 90.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Relay Control Module Addressable",
+      "quantity": 5.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Relay Control Module Addressable",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "Short Circuit Isolator Base Type",
+      "quantity": 125.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG ATS Knights bridge",
+      "item_description": "Short Circuit Isolator Base Type",
+      "quantity": 388.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "Short Circuit Isolator Base Type",
+      "quantity": 15.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Short Circuit Isolator Base Type",
+      "quantity": 60.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Short Circuit Isolator Base Type",
+      "quantity": 191.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Short Circuit Isolator Base Type",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Short Circuit Isolator Base Type",
+      "quantity": 109.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 8.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG ATS Knights bridge",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 85.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 24.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG - Ashiana PH-2",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 52.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 6.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 131.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 14.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 64.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 79.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "M3M MARINA",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Fire Fighter Telephone Jack (ABS)",
+      "quantity": 154.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Fire Fighter Telephone Jack (ABS)- New",
+      "quantity": 224.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "1 Loop Fire Alarm Panel W/B",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "1 Loop Fire Alarm Panel W/B",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "1 Loop Fire Alarm Panel W/B",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "2 Loop Fire Alarm Panel",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "2 Loop Fire Alarm Panel",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "DLF Skycocurt",
+      "item_description": "2 Loop Fire Alarm Panel",
+      "quantity": 7.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "2 Loop Fire Alarm Panel",
+      "quantity": 6.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "4 Loop Fire Alarm Panel W/B",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "4 Loop Fire Alarm Panel W/B",
+      "quantity": 3.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "4 Loop Fire Alarm Panel W/B",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "Addressable Repeater Panel Multiloop",
+      "quantity": 4.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Addressable Repeater Panel Multiloop",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Addressable Repeater Panel Multiloop",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Addressable Repeater Panel Multiloop",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Insure Property (M3M Broadway)",
+      "item_description": "Addressable Repeater Panel Multiloop",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 8.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Neil j Control (ELIGO)",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 30.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 6.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Hi-tech Engineers & Consultants Pvt Ltd",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 95.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 16.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 114.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 224.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "M3M MARINA",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 269.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Iris Global (m3m 65th)",
+      "item_description": "Hooter LMT ABS",
+      "quantity": 25.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Ankur Electricals (DLF Panchkula)",
+      "item_description": "Hooter Electronics Metal",
+      "quantity": 56.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Hooter Electronics ABS",
+      "quantity": 32.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "neil j control (Varidia- Ghaziabad)",
+      "item_description": "Hooter Electronics ABS",
+      "quantity": 115.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 8.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 66.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (ATS Rhapsody)",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 19.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 143.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG - Ashiana PH-2",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 22.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Hi-tech Engineers & Consultants Pvt Ltd",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 95.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 86.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 124.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "neil j control (Varidia- Ghaziabad)",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 115.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "M3M MARINA",
+      "item_description": "Manual Call Point ABS",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Ankur Electricals (DLF Panchkula)",
+      "item_description": "Manual Call Point metal",
+      "quantity": 56.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 4.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 628.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 1910.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 318.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 960.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad (LOt-1)",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 1080.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 3044.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 1830.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Iris Global (Aegis Home)",
+      "item_description": "Smoke Detector w/o Base",
+      "quantity": 400.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Heat Detector w/o Base",
+      "quantity": 278.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Heat Detector w/o Base",
+      "quantity": 232.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Heat Detector w/o Base",
+      "quantity": 32.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Heat Detector w/o Base",
+      "quantity": 240.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad (LOt-1)",
+      "item_description": "Heat Detector w/o Base",
+      "quantity": 120.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Heat Detector w/o Base",
+      "quantity": 864.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Heat Detector w/o Base",
+      "quantity": 221.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Iris Global (Aegis Home)",
+      "item_description": "Heat Detector w/o Base",
+      "quantity": 30.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Hi-tech Engineers & Consultants Pvt Ltd",
+      "item_description": "Multi Detector w/o Base",
+      "quantity": 5.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Multi Detector w/o Base",
+      "quantity": 89.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Ankur Electricals (DLF Panchkula)",
+      "item_description": "Multi Detector w/o Base",
+      "quantity": 8.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "M3M MARINA",
+      "item_description": "Multi Detector w/o Base",
+      "quantity": 11.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "Detector Base",
+      "quantity": 1327.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "Detector Base",
+      "quantity": 4.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Detector Base",
+      "quantity": 740.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG ATS Knights bridge",
+      "item_description": "Detector Base",
+      "quantity": 553.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (ATS Rhapsody)",
+      "item_description": "Detector Base",
+      "quantity": 1774.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "Detector Base",
+      "quantity": 315.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "Detector Base",
+      "quantity": 515.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "Detector Base",
+      "quantity": 100.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Detector Base",
+      "quantity": 445.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Hi-tech Engineers & Consultants Pvt Ltd",
+      "item_description": "Detector Base",
+      "quantity": 5.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Detector Base",
+      "quantity": 717.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Supertech (Dehradoon)",
+      "item_description": "Detector Base",
+      "quantity": 130.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Detector Base",
+      "quantity": 60.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Detector Base",
+      "quantity": 1701.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Detector Base",
+      "quantity": 350.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Detector Base",
+      "quantity": 1200.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad (LOt-1)",
+      "item_description": "Detector Base",
+      "quantity": 960.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Detector Base",
+      "quantity": 4016.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Detector Base",
+      "quantity": 11.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Detector Base",
+      "quantity": 3330.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Iris Global (Aegis Home)",
+      "item_description": "Detector Base",
+      "quantity": 430.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "Response Indicator Abs Small",
+      "quantity": 39.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "Response Indicator Abs Small",
+      "quantity": 4.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Hi-tech Engineers & Consultants Pvt Ltd",
+      "item_description": "Response Indicator Abs Small",
+      "quantity": 3.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Response Indicator Abs Small",
+      "quantity": 8.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Response Indicator Abs Small",
+      "quantity": 12.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Ankur Electricals (DLF Panchkula)",
+      "item_description": "Response Indicator Abs Small",
+      "quantity": 8.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Response Indicator Abs Small",
+      "quantity": 245.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "Control Module Addressable 1 ZONE",
+      "quantity": 28.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "Control Module Addressable 1 ZONE",
+      "quantity": 5.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "Control Module Addressable 1 ZONE",
+      "quantity": 6.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Control Module Addressable 1 ZONE",
+      "quantity": 32.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Control Module Addressable 1 ZONE",
+      "quantity": 16.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Control Module Addressable 1 ZONE",
+      "quantity": 30.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Control Module Addressable 1 ZONE",
+      "quantity": 72.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Control Module Addressable 1 ZONE ABS",
+      "quantity": 10.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Control Module Addressable 1 ZONE ABS",
+      "quantity": 10.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Control Module Addressable 1 ZONE ABS",
+      "quantity": 149.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Control Module Addressable 1 ZONE ABS",
+      "quantity": 6.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "6W Ceilling Speaker Daksh 6\"",
+      "quantity": 365.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "6W Ceilling Speaker Daksh 6\"",
+      "quantity": 15.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "6W Ceilling Speaker Daksh 6\"",
+      "quantity": 40.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "6W Ceilling Speaker Daksh 6\"",
+      "quantity": 20.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "CO Detector 220V",
+      "quantity": 40.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "CO Detector 220V",
+      "quantity": 60.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "SMPS with box- 24 Volt 14 Amp with battery charger & 2 x 12 Volt 7AH sealed lead-acid battery including cost of powder coated MS outlet box etc.",
+      "quantity": 8.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "SMPS with box- 24 Volt 14 Amp with battery charger & 2 x 12 Volt 7AH sealed lead-acid battery including cost of powder coated MS outlet box etc.",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "SMPS with box- 24 Volt 14 Amp with battery charger & 2 x 12 Volt 7AH sealed lead-acid battery including cost of powder coated MS outlet box etc.",
+      "quantity": 5.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Shree Keshav Kunj (RSS)",
+      "item_description": "Telephone Handset",
+      "quantity": 4.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "Telephone Handset",
+      "quantity": 1.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Telephone Handset",
+      "quantity": 4.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (ATS Rhapsody)",
+      "item_description": "Telephone Handset",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "Telephone Handset",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Telephone Handset",
+      "quantity": 4.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Telephone Handset",
+      "quantity": 6.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Telephone Handset",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Telephone Handset",
+      "quantity": 7.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Signature Solera Sec-103, Gurgaon",
+      "item_description": "Repeater Panel daksh rigel",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "6 Watt Wall Mounted Speaker 551T",
+      "quantity": 56.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "6 Watt Wall Mounted Speaker 551T",
+      "quantity": 429.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "DLF Skycocurt",
+      "item_description": "Addressable Repeater Panel",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "ATOM ENGG",
+      "item_description": "Addressable Repeater Panel",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "MS Detector Junction Box Round",
+      "quantity": 332.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "MS Detector Junction Box Round",
+      "quantity": 20.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Leewo Contact (M3M)",
+      "item_description": "MS Detector Junction Box Round",
+      "quantity": 68.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "MS Detector Junction Box Round",
+      "quantity": 276.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "MS Detector Junction Box Round",
+      "quantity": 414.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "SAP Exim (Mullanpur, Chandigarh)",
+      "item_description": "6 Zone Regel Fire Alarm Panel Rigel with battery",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Fire Fighting Telephone jack (SS) with back box",
+      "quantity": 70.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Fire Fighting Telephone jack (SS) with back box",
+      "quantity": 82.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Fire Fighting Telephone jack (SS) with back box",
+      "quantity": 20.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Iris Global (m3m 65th)",
+      "item_description": "Fire Fighting Telephone jack (SS) with back box",
+      "quantity": 25.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG-Eldeco PH-3",
+      "item_description": "Addresable Fire Alarm Control Panel 3 Loop \nwith PA System 2 Zone selector switch & all call facility, digital Voice Evacuation Module 160 Watt amplifire, MIC (MM-60M) and Single Zone Two Way Fire Fighter Telephone communication System and acessories required to compelete the system. The panel shall have a built in power supply and battery charger along with  maintenance free required 2  x 12 volt -12AH, SMF Lead acid batteries. (MAKE-DAKSH)",
+      "quantity": 3.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG (SS Group)",
+      "item_description": "PA Voice Alarm Controller",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "PA Voice Alarm Controller",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "PA Voice Alarm Controller",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "PA Voice Alarm Router",
+      "quantity": 4.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Leewo Contact (M3M)",
+      "item_description": "PA Voice Alarm Router",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "PA Voice Alarm Router",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "PA Voice Alarm Router",
+      "quantity": 3.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "PA Call Station",
+      "quantity": 2.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (SS Group)",
+      "item_description": "PA Call Station",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "PA Call Station",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "PA Call Station",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "PA Call Station",
+      "quantity": 3.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Amplifire 250 W Daksh",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Amplifire 250 W Daksh",
+      "quantity": 3.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "LPG Gas Leak Detector (220V AC)",
+      "quantity": 422.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "LPG Gas Leak Detector (220V AC)",
+      "quantity": 232.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "LPG Gas Leak Detector (220V AC)",
+      "quantity": 432.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "neil j control (Mohali)",
+      "item_description": "24 Zone Regel Fire Alarm Panel Rigel",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Ankur Electricals (DLF Panchkula)",
+      "item_description": "6 Zone Fire Alarm Control Panel Rigel",
+      "quantity": 8.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Signature Solera Sec-103, Gurgaon",
+      "item_description": "16 Zone Regel Fire Alarm Panel Rigel",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "ANDOUR HEIGHTS, (skyful)",
+      "item_description": "16 Zone Regel Fire Alarm Panel Rigel",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "SMPS with Box (Power Supply SMPS 24V-10Amp. with battery charger and Battery for zone monitor module)",
+      "quantity": 4.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (ATS Rhapsody)",
+      "item_description": "Flexible FRLS wires 2 x 1.5 Sq mm in meter (Red+Black) Polycab",
+      "quantity": 24599.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Signature Solera Sec-103, Gurgaon",
+      "item_description": "Battery 12V-7AH Exide",
+      "quantity": 16.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "KATYANI AGENCY (AMITY MANESAR)",
+      "item_description": "Battery 12V-7AH Exide",
+      "quantity": 18.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "M3M MARINA",
+      "item_description": "Battery 12V-7AH Exide",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "SMPS with Box (Power Supply SMPS 24V-25Amp. with battery charger and Battery for zone monitor module) for Zone Monitor module & heat detector of kitchen power supply at Ground floor+terrace floor))",
+      "quantity": 8.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "SMPS with Box (Power Supply SMPS 24V-25Amp. with battery charger and Battery for zone monitor module) for Zone Monitor module & heat detector of kitchen power supply at Ground floor+terrace floor))",
+      "quantity": 6.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "SMPS with Box (Power Supply SMPS 24V-25Amp. with battery charger and Battery for zone monitor module) for Zone Monitor module & heat detector of kitchen power supply at Ground floor+terrace floor))",
+      "quantity": 9.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Motorized Siren  (Audible range 2000meter).",
+      "quantity": 2.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Motorized Siren  (Audible range 2000meter).",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Motorized Siren  (Audible range 2000meter).",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Horizon Electric Corporation (M3M Capital Walk)",
+      "item_description": "Main Talkback System 64 Zone with battery backup",
+      "quantity": 3.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Leewo Contact (M3M)",
+      "item_description": "Main Talkback System 64 Zone with battery backup",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Main Talkback System 64 Zone with battery backup",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Main Talkback System 64 Zone with battery backup",
+      "quantity": 3.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Trimoorti Electrical (M3m Capital Walk)",
+      "item_description": "Hooter cum Speaker with strobe (Hooter cum Flasher + Hooter LMT ABS)",
+      "quantity": 86.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Addressable Fire Alarm Control Panel (2 Loop) \nwith Public Address System, 2 Way Selector switch, 250 Watt Amplifire, Microphone, with 2 zone Talkback System telephone type with battery backup ( TOWER PANEL ) \nNote: PA Sysetm / Talkback System Master /Slave Type , All in Single cabinate",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Addressable Fire Alarm Control Panel (3 Loop) with battery backup\n( TOWER CUM MASTER FIRE ALARM PANEL )",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "WALSON (ATS picturesque)",
+      "item_description": "Public addressable System with Master Talk Back System telephone type Rack  with facility for individually addressing a core or addressing all zones on all call basis consisting of following item and complete as required:(Master PA) Fire Control Room\n-Cabinet/ Rack of approved shape, Size & finish\n-16 nos switches for selection of zone with individual zone LED’s\n-Priority module for addressable fire alarm system.\n-1 call switch \n-1 siren alarm\n-1 manual/siren selector\n-1 press talk switch \n-Circuit for compatibility to addressable fire alarm system.\n-Internal wiring & connector.\n-1 nos Goose neck microphone.\n- 1 nos 250 Watt main  amplifier\n- analogue addressable 2 Way Control Modules for PA selecter switch  etc\n-16 way main fire fightingtelephone type talk back system (Master /Slave type)\n-Modules required for hooter tripping shall be the part of Main PA console\n-16 nos relay output/control module for interfacing with fire alarm system& activation of alarm.\n-Power supplies, sealed maintenance free batteries/Charger, necessary meters.\n-Any other item/equipment require to complete the system may not specifically mentioned shall be part of quoted rates.\n-The unit shall be otherwise as per the requirements of the technical specifications and with all fixing accessories, interconnections terminal etc as required to complete the system. \n\n\nNote: PA Sysetm / Talkback System Master /Slave Type",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "PNSC (Sec-71, GGN)",
+      "item_description": "6 Loop Fire Alarm Panel W/B",
+      "quantity": 2.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "Optical Beam Detector",
+      "quantity": 8.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Optical Beam Detector",
+      "quantity": 9.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "Addressable Response Indciator",
+      "quantity": 450.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Supertech (Dehradoon)",
+      "item_description": "Addressable Response Indciator",
+      "quantity": 72.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "1000V grade copper conductor XLPE low smoke halogen free insulated with fire rated glass mica tape LSZH sheathed armored fire survival cable 2 x 1.5 sq mm  Make-Bonton",
+      "quantity": 4258.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "GI Junction Box (3 x3)",
+      "quantity": 4.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "GI Junction Box (3 x3)",
+      "quantity": 50.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG ATS Knights bridge",
+      "item_description": "6 Loop Fire Alarm Panel with PA with Talk Back System (250 watt amplifier) 6 way selector for PA and 3 way selector for talk back. \n\nPA WITH TALK BACK SYSTEM (MASTER SLAVE TYPE)\nTOWER panel for - 1,2,3,4 \n (As per Ticket Ref- DKSH-1689)",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG ATS Knights bridge",
+      "item_description": "6 Loop Fire Alarm Panel with PA with Talk Back System (300 watt amplifier) 10 way selector for PA and  10 way selector for Talk Back. \n\nTOWER - 5  MASTER PA with Talk Back Panel\n\nPA WITH TALK BACK SYSTEM (MASTER SLAVE TYPE)\n(As per Ticket Ref- DKSH-1689)",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Rajat Electricals",
+      "item_description": "6 Zone Fire Alarm Control Panel with PA System, All Call announcement Facility, Both side announcment facility, tower panel as well main panel, 80 watt amplifire Microphone, Power Supply battery charger and Battery)",
+      "quantity": 1.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "VNG (HERO HOME)",
+      "item_description": "addressable 4 Loop Fire Alarm Control Panel with Public addressable System Console consisting of following item and complete as required:\na) Main Amplifire 250 Watt. b) 06 way selector switch & all call. c) Priority module for addressable fire alarm system. d) Circuit for compatibility to addressable fire alarm system.\ne) 1 Nos. microphone. f) Controller with Output divider circuit.. g) Power supply & battery charger. h) Battery 12Volt - 02 Nos. i) Monitor control panel.\nj) Internal wiring & connector. k) Alarm signal generator l) Both side announcement facility tower panel as well as main panel",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "M3M MARINA",
+      "item_description": "MCP GLASS",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Ireo Corridor",
+      "item_description": "Addressable Fire Alarm Control Panel of 2 Loop with Public Address System including 100 Watt Amplifier, without Selector, Monitor Speaker with Volume Control, Microphone, Internal wiring & Connector, Power Supply, Battery Charger, circuit for compatible with Addressable fire alarm system complete as per specification. Make-Daksh , [For Tower- C5 & C6]",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG (SS Group)",
+      "item_description": "GUI Software",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "neil j control (Varidia- Ghaziabad)",
+      "item_description": "8 Zone Monitor Module-1 Nos.\n1 Zone Control Module-1 Nos.\n1 Zone Input Module-1 Nos. Provide only space for Input\nSMPS 24v-4.5 Amp- 1 Nos.\nAll items are in single box, Sam as per last provided",
+      "quantity": 14.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Signature Solera Sec-103, Gurgaon",
+      "item_description": "16 Zone Fire Alarm Control Panel RIGEL with PA System\n(with Inbuilt 100 Watt Amplifier, Microphone, W/o selector, All Call Facility, power Supply, Battery Charger, both side announcement facility tower panel as well as main panel etc as per specification) without battery",
+      "quantity": 2.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Signature Solera Sec-103, Gurgaon",
+      "item_description": "24 Zone Fire Alarm Control Panel RIGEL with PA System\n(with Inbuilt 100 Watt Amplifier, Microphone, W/o selector, All Call Facility, power Supply, Battery Charger, both side announcement facility tower panel as well as main panel etc as per specification) without battery",
+      "quantity": 5.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Insure Property (M3M Broadway)",
+      "item_description": "2 core, 1.5 sq. mm. armoured cable\nMake- Polycab - RED COLOR",
+      "quantity": 1300.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "10 Loop Fire Alarm Panel W/B",
+      "quantity": 5.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Rydberg (Vipul Business Park Gurgaon)",
+      "item_description": "10 Loop Fire Alarm Panel W/B",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG (ATS Rhapsody)",
+      "item_description": "Addressable Fire Alarm Control Panel 2 Loop\n(Master Fire Alarm Panel)",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "VNG (ATS Rhapsody)",
+      "item_description": "PA System with Talkback  including a) Main Amplifire  250 Watt., b) 10 way selector switch & all call with Individual Zone LED's. c) Priority module for addressable fire alarm system. d) Circuit for compatibility to addressable fire alarm system. e) 1 Nos. microphone. f) Output divider circuit. g) Power supply & battery charger. h) Monitor Speaker with Volume control. i) Internal wiring & connector. j) Alarm signal generator k) Master Talk Back System Telephone Type 8 Zone,  l) Both side announcement facility tower panel as well as main panel, m) battery 12V- 2 Nos. complete as per BOQ Specification)\n(Master PA panel & Master Talkback Panel)\nNote: PA /Talkback System - Master /Slave Type",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "Horn Speaker",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "25mm dia. MS Conduit",
+      "quantity": 200.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "25mm dia. MS Conduit",
+      "quantity": 74.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "20mm dia. MS Conduit",
+      "quantity": 350.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (m3m corner walk)",
+      "item_description": "2 core x  40/.2 mm PVC insulated twisted copper conductor wires",
+      "quantity": 500.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Neil j Control (ELIGO)",
+      "item_description": "Public address with Talkabck System  Console consisting of following item and complete as required:\n a) 500 Watt Amplifire.  b) All call announcement facility.  c) Priority module for addressable fire alarm system.\n d) Circuit for compatibility to addressable fire alarm system.  e) 1 Nos. microphone.  f) Voice Alarm Controller with Output divider circuit..\n g) USB Player with facility of Aux, Bluetooth & FM Facility.  h) Power supply & battery charger.  i) Battery 12Volt - 02 Nos.  j) Monitor speaker with volume control.\n k) Internal wiring & connector.  l) Alarm signal generator  m) Single Zone Main Talk Back System Telephone Type",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "Public address System with Talkback Console consisting of following item and complete as required:\n a) Main Amplifire 250 Watt.\n b) 04 way selector switch & all call facility \n c) Individual Zone LED's for selection switch.\n d) Priority module for addressable fire alarm system.\n e) Circuit for compatibility to addressable fire alarm system.\n f) 1 Nos. microphone.\n g) Controller with Output divider circuit.\n h) Automatic Voice Alarm Module with facility for recorded message.\n i) Third party DVD Music Player\n j) Power supply & battery charger.\n k) Battery 12Volt - 02 Nos.\n l) Monitor Speaker with volume control.\n m) Internal wiring & connector.\n n) Alarm signal generator\n o) Two way Communication Main Talk Back System Telephone Type. Make-Daksh, Mic- Ahuja",
+      "quantity": 2.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "vng (assotech blith tower)",
+      "item_description": "20 mm dia GI Flexible Conduit",
+      "quantity": 630.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Parth Associates",
+      "item_description": "Hooters cum strobe with addressable module",
+      "quantity": 71.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Sego Inco",
+      "item_description": "12 Loop fire alarm control panel with battery",
+      "quantity": 1.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "SKG Nirman (Hero Home Club)",
+      "item_description": "PA System (including 400 watt amplifire, Microphone, all call announcement faclity, Monitor Speaker, Volume Control, internal wiring & connector, circuit for compatible with addressable fire alam system with Telephone type 2 way talkback system for telephone jack etc. complete as per specification)",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Supertech (Dehradoon)",
+      "item_description": "Loop Card of 2 Loop",
+      "quantity": 2.0,
+      "priority": "Normal"
+    },
+    {
+      "client_name": "Hi-tech Engineers & Consultants Pvt Ltd",
+      "item_description": "6 Zone Fire Alarm Control Panel with PA System 60 Watt Amplifire, All Call facility) without battery",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG (Rhapsody) Basement",
+      "item_description": "Addressable Fire Alarm Control Panel 2 Loop With PA System Including A) Main Amplifire 300 Watt., B) 2 Way Selector Switch & All Call With Individual Zone LED's. C) Priority Module For Addressable Fire Alarm System. D) Circuit For Compatibility To Addressable Fire Alarm System. E) 1 Nos. Microphone. F) Output Divider Circuit. G) Power Supply & Battery Charger. H) Monitor Speaker With Volume Control. I) Internal Wiring & Connector. J) Alarm Signal Generator K) Basement Talk Back System Telephone Type 2 Zone, L) Both Side Announcement Facility Tower Panel As Well As Main Panel, M) Battery 12V-12Ah- 2 Nos. Complete As Per BOQ Specification)",
+      "quantity": 1.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "Global Fire Imperial Ghaziabad",
+      "item_description": "Public address System with Two way communication fire fighter talkback\nsystem Console consisting of following item and complete as required:\na) Main Amplifire 500 Watt - (1 Nos.)\nb) 06 Zone selector switch & all call with Individual Zone LED's.\nc) Priority module for addressable fire alarm system.\nd) Circuit for compatibility to addressable fire alarm system.\ne) 1 Nos. microphone.\nf) Voice Alarm Controller with Output divider circuit..\ng) USB Player with facility of Aux, Bluetooth & FM Facility.\nh) Power supply & battery charger.\ni) Battery 12Volt - 02 Nos.\nj) Monitor speaker with volume control.\nk) Internal wiring & connector.\nl) Alarm signal generator\nm) 4 Zone Main Talk Back System Telephone Type",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "VNG -SAG Realtech (Civitech Noida)",
+      "item_description": "Supply of Public address System Console consisting of following item and complete as required:\n\na) Main Amplifire 300 Watt.\nb) 04 Zone  selector switch & all call with Individual Zone LED's.\nc) Priority module for addressable fire alarm system.\nd) Circuit for compatibility to addressable fire alarm system.\ne) 1 Nos. microphone.\nf) Voice Alarm Controller with Output divider circuit..\ng) USB Player with facility of Aux, Bluetooth & FM Facility.\nh) Power supply & battery charger.\ni) Battery 12Volt - 02 Nos.\nj) Monitor speaker with volume control.\nk) Internal wiring & connector.\nl) Alarm signal generator\nm) Single Zone Main Fire Fighting two way communication Talkback system.",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "M3M Corner Walk (VNG)- For Service",
+      "item_description": "ADDRESASBLE MULTI LOOP FIRE PANEL 6 LOOP CARD SETUP ONLY",
+      "quantity": 3.0,
+      "priority": "High Priority"
+    },
+    {
+      "client_name": "KATYANI AGENCY (AMITY MANESAR)",
+      "item_description": "Supply of 6 Zone Fire Alarm Control Panel of microcontroller based with its own fire detection zone interface card for initiating and indicating devices, power supply & Battery Charger. The panel shall have its own operating system, E-PROM for event logging system etc as required. a) Material construction - CRC sheet with powder coating. b) Display Type - Display consisting of 80 CHR backlight alphanumeric with 20 X 4 LCD Display & yellow / green / red LED for fault / isolate / fire. c) Keypad for operation and monitoring display requirement to display all types alarm condition, short, open condition with Zone address & should also indicate time & date and following facility required in the panel-  1) Zone wise Hooter Facility.  2) ON/OFF Switch  3) Zone Wise Isolation Switch  4) Facility to integration with Main Panel (Floor panel Indication on Existing Main panel)  5) No Password Facility required in the panel.  complete as per specification.   Make-Daksh, Model: DAKSH-RIGEL (without battery)",
+      "quantity": 9.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "neil j control (Mohali)",
+      "item_description": "40 x 2 LCD for old 24D panel",
+      "quantity": 4.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Skyfull (Millenia)",
+      "item_description": "Main Mother Board Card of (16 Zone Fire Panel) Make-Daksh, Model-Regal",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "Ankur Electricals (DLF Panchkula)",
+      "item_description": "Conventional Monitor Module for flow switch",
+      "quantity": 24.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "neil j Control",
+      "item_description": "8 zone fire alarm control panel rigel with IoT and LAN Card",
+      "quantity": 1.0,
+      "priority": "Highest Priority"
+    },
+    {
+      "client_name": "OMPIA INFRASOFT PRIVATE LIMITED (RAMPRASTHA)",
+      "item_description": "Public Address System with Talkback sytem Console consisting of following item and complete as required:\na) Main Amplifire 300 Watt . b) All call Announcement Facility c) Priority module for addressable fire alarm system.\nd) Circuit for compatibility to addressable fire alarm system. e) 1 Nos. microphone. f) USB Player with facility of Aux, Bluetooth, FM.\ng) Power supply & battery charger. h) Battery 12Volt - 02 Nos. i) Monitor speaker with volume control. j) Internal wiring & connector.\nk) Alarm signal generator l) Single Zone Main Talk Back System Telephone Type",
+      "quantity": 10.0,
+      "priority": "High Priority"
+    }
+  ]
+}
