@@ -2,11 +2,19 @@ import os
 import json
 from datetime import datetime
 
-from flask import Flask, Response
+from starlette.applications import Starlette
+from starlette.responses import HTMLResponse, JSONResponse
+from starlette.routing import Route, Mount
+from starlette.requests import Request
+from starlette.concurrency import run_in_threadpool
+
 from pymongo import MongoClient, DESCENDING
 from pymongo.errors import PyMongoError, ServerSelectionTimeoutError
 
-app = Flask(__name__)
+from server import mcp
+
+UPLOAD_FOLDER = "/tmp/uploads"
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 MONGO_URI = os.environ.get("MONGO_URI", "mongodb://localhost:27017/")
 MONGO_DB = os.environ.get("MONGO_DB", "production_db")
@@ -15,7 +23,7 @@ MONGO_COLLECTION = os.environ.get("MONGO_COLLECTION", "production_records")
 TEMPLATE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "manifest_template.html")
 
 
-def get_latest_report():
+def _get_latest_report():
     try:
         client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
         client.admin.command("ping")
@@ -29,7 +37,7 @@ def get_latest_report():
         return {"error": f"MongoDB error: {str(e)}"}
 
 
-def render_manifest(doc):
+def _render_manifest(doc):
     if not os.path.exists(TEMPLATE_PATH):
         return "<h1>Error: manifest_template.html not found next to app.py</h1>", 500
 
@@ -45,25 +53,59 @@ def render_manifest(doc):
     return html, 200
 
 
-@app.route("/")
-def manifest():
-    doc = get_latest_report()
+async def manifest(request: Request) -> HTMLResponse:
+    doc = await run_in_threadpool(_get_latest_report)
 
     if not doc:
-        return "<h1>No report found in MongoDB.</h1><p>Run production_analysis_mongodb.py first to populate data.</p>", 404
+        return HTMLResponse(
+            "<h1>No report found in MongoDB.</h1><p>Run production_analysis_mongodb.py first to populate data.</p>",
+            status_code=404,
+        )
 
     if "error" in doc:
-        return f"<h1>Error</h1><p>{doc['error']}</p>", 500
+        return HTMLResponse(f"<h1>Error</h1><p>{doc['error']}</p>", status_code=500)
 
-    html, status = render_manifest(doc)
-    return Response(html, status=status, mimetype="text/html")
-
-
-@app.route("/health")
-def health():
-    return {"status": "ok"}, 200
+    html, status = await run_in_threadpool(_render_manifest, doc)
+    return HTMLResponse(html, status_code=status)
 
 
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port, debug=False)
+async def health(request: Request) -> JSONResponse:
+    return JSONResponse({"status": "ok"})
+
+
+async def upload(request: Request) -> JSONResponse:
+    form = await request.form()
+    file = form.get("file")
+
+    if file is None:
+        return JSONResponse({"error": "No file uploaded"}, status_code=400)
+
+    if not file.filename:
+        return JSONResponse({"error": "No filename"}, status_code=400)
+
+    if not file.filename.lower().endswith(".xlsx"):
+        return JSONResponse({"error": "Only .xlsx files are allowed"}, status_code=400)
+
+    save_path = os.path.join(UPLOAD_FOLDER, file.filename)
+    contents = await file.read()
+
+    def _write():
+        with open(save_path, "wb") as f:
+            f.write(contents)
+
+    await run_in_threadpool(_write)
+
+    return JSONResponse({"status": "success", "path": save_path})
+
+
+mcp_app = mcp.http_app(path="/mcp")
+
+app = Starlette(
+    routes=[
+        Route("/", manifest, methods=["GET"]),
+        Route("/health", health, methods=["GET"]),
+        Route("/upload", upload, methods=["POST"]),
+        Mount("/", app=mcp_app),
+    ],
+    lifespan=mcp_app.lifespan,
+)

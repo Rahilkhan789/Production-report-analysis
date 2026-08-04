@@ -1,6 +1,8 @@
 fastmcp
-flask
+starlette
+uvicorn
 gunicorn
+python-multipart
 openpyxl
 pymongo
 requests
